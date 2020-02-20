@@ -111,7 +111,7 @@ def changing_alan
         }
  		}
      alans_new_info = "GUI"
-     programmer_hash[1][0] = "#{alans_new_info}"
+     programmer_hash[:alan_kay][:languages] = "#{alans_new_info}"
      
 end
      
